@@ -11,3 +11,6 @@ Example code to show how the acr122u can be used to emulate NFC cards.
 # How to use
 Download and run emulate.py<br>
 Edit TG_INIT_AS_TARGET data to specify card type
+
+# Credits
+RFIDIOt repo and Salvador Mendoza
