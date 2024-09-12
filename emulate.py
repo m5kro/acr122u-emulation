@@ -122,7 +122,7 @@ def main():
         # Begin emulation commands
 
         # Arguments for TG_INIT_AS_TARGET
-        mode = '05' # 00 = Passive Only 01 = DEP Only 02 = PICC Only 05 = passive and picc
+        mode = '00' # 00 = Passive Only 01 = DEP Only 02 = PICC Only
         sens_res = '0400' # 0400 or 0800 try both
         nfcid1t = '000000'
         sel_res = '20' # 40 = DEP 60 = DEP and PICC 20 = PICC
